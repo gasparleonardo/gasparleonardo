@@ -57,7 +57,7 @@ Construção de modelo analítico descritivo e preditivo para mapeamento de tend
 * **Descrição do Projeto:** Tratamento de dados históricos e agregação de mercados da América do Norte, Europa e Japão. Análise de ciclo de vida de plataformas e determinação de quotas de mercado por gênero e região. Estudo de correlação estatística entre avaliações de críticos especializados e volume de vendas físicas e digitais.
 * **Metodologias e Estatística:** Teste-t de Student, Análise de Correlação, Análise Exploratória de Dados (AED).
 * **Tecnologias Utilizadas:** Python, Pandas, SciPy, Matplotlib.
-* **Acesso ao Repositório:** [Visualizar Projeto](https://github.com/gasparleonardo/Analise-Preditiva-de-Market-de-Videogames)
+* **Acesso ao Repositório:** [Visualizar Projeto](https://github.com/gasparleonardo/Analise-Preditiva-de-Mercado-de-Videogames)
 
 ---
 
